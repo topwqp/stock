@@ -11,10 +11,13 @@
             "id": "f01c631b6db056a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "bases",
+              "state": {
+                "file": "未命名 2.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名 2"
             }
           }
         ]
@@ -179,17 +182,26 @@
   "active": "f01c631b6db056a3",
   "lastOpenFiles": [
     "曲线超哥1/2025年.md",
-    "好运/assets/好运笔记/file-20260118114546910.png",
+    "未命名 2.base",
+    "期货/其他/期货女神.md",
+    "期货/其他/采访-熊林成.md",
+    "未命名 1.base",
+    "未命名.base",
+    "经典语录.md",
+    "期货/其他",
+    "期货/孔令艺",
+    "期货/李永强",
+    "好运/好运笔记.md",
+    "期货",
     "好运/assets/好运笔记/file-20260118114439533.png",
+    "好运/assets/好运笔记/file-20260118114546910.png",
+    "逍遥刘强-期货大作手要点.md",
+    "finanstic.md",
+    "README.md",
     "好运/assets/好运笔记",
     "好运/assets",
-    "好运/好运笔记.md",
     "stock-resource.md",
-    "README.md",
-    "finanstic.md",
-    "逍遥刘强-期货大作手要点.md",
     "曲线超哥1",
-    "好运",
     "1.md"
   ]
 }
